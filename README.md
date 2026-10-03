@@ -11,7 +11,7 @@ with an installer.
 | **Sunken Isles** | 1.4 | C program | A pirate captain among eight island ports: trade, chase sails, broadsides and boarding, the law, fleets, treasure maps and the Kraken. |
 | **Shadowguild** | 1.0 | C program | Run a thieves' guild: recruit, steal, and raid other guilds. The first King of Thieves wins the season and goes into the Hall of Fame. |
 | **Legend of the Ember Wyrm** | 1.0 | C program | The classic forest-and-dragon door: fight in the Ashwood, train with the masters, court at the inn, duel rivals and face the Ember Wyrm. Other Places are ARexx add-ons. |
-| **Realm of the Overworld** | 3.5 | ARexx script | Fantasy RPG on an 80x50 overworld that reveals as you explore: towns, dungeons, trade, castles to build and raid. Comes with RealmEdit, a map and player editor. |
+| **Realm of the Overworld** | 3.5.2 | ARexx script | Fantasy RPG on an 80x50 overworld that reveals as you explore: towns, dungeons, trade, castles to build and raid. Comes with RealmEdit, a map and player editor. |
 | **Space Bounty** | 1.0 | ARexx script | TradeWars-style trading across a warp map: star ports, pirates, alien empires, corporations, planets and bounties. |
 
 Download them from the **[Releases](../../releases)** page - one release per door.
